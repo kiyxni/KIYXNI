@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e471wac3zb7oeq7nfndicll6u21fuhurz03y8o9n7ea&rid=giphy.gif&ct=g" width="250"/>
+</div>
+
 - 👋 Hi, I’m @kiyxni
 - 👀 I’m interested in Literature, Philosophy, Cinema, Boxing and Tech...
 - 🌱 I’m currently learning Front End Development...
