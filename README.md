@@ -1,8 +1,11 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <b> Hi, I'm @Kiyxni. 
     <br>
     Welcome to my GitHub profile. </b>
-  </div>
+  <br>
+  <br>
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fkiyxni&label=You%20are%20visitor%20number&labelColor=%23d9e3f0&countColor=%23263759&style=flat"/>
+  <br>
   <br>
    <div id="cat gif" align="center"><img src="https://media2.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47h4vvac5o8gnfnmlyvlzl4zxau6s2he2ptzz6z0zb&rid=giphy.gif&ct=g" width="350"/></align>
   </div>
