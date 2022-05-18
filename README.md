@@ -14,7 +14,7 @@
 
  
   <div id="graph" align="center">
-       <img src="https://c.tenor.com/2-82oUmUUOYAAAAC/digimon-izzy.gif" width="400"/>
+       <img src="https://c.tenor.com/2-82oUmUUOYAAAAC/digimon-izzy.gif" width="350"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiyxni&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
     </div>
 <!---
